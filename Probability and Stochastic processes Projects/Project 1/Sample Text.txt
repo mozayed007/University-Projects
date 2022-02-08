@@ -1,0 +1,36 @@
+What is a standard?
+A standard is a document that provides requirements, specifications, guidelines or characteristics that can be used consistently to ensure that materials, products, processes and services are fit for their purpose. Standards allow technology to work seamlessly and establish trust so that markets can operate smoothly. They provide a common language to measure and evaluate performance, they make interoperability of components made by different companies possible, and they protect consumers by ensuring safety, durability, and market equity.
+
+Why do we have standards? Why are standards important?
+Standards and their development frame, guide, and normalize almost all areas of our lives.  For example, standards in IT govern interoperability between a variety of digital devices and platforms, standardized production of various machine parts allows uniform repair and reproduction. Standardization in fields like accounting, health care, or agriculture promotes best industry practices that emphasize safety and quality control.  Standards reflect the shared values, aspirations, and responsibilities we as a society project upon each other and our world. Keeping informed about the most current standards can drive innovation and increase the market value of an engineer’s research and design efforts as well as promoting international trade and commerce, which then fuels more innovation.
+
+What are the major ethics of professional engineers?
+Engineers shall hold paramount the safety, health, and welfare of the public.
+a. If engineers’ judgment is overruled under circumstances that endanger life or property, they shall notify their employer or client and such other authority as may be appropriate.
+b. Engineers shall approve only those engineering documents that are in conformity with applicable standards.
+c. Engineers shall not reveal facts, data, or information without the prior consent of the client or employer except as authorized or required by law or this Code.
+d. Engineers shall not permit the use of their name or associate in business ventures with any person or firm that they believe is engaged in fraudulent or dishonest enterprise.
+e. Engineers shall not aid or abet the unlawful practice of engineering by a person or firm.
+f. Engineers having knowledge of any alleged violation of this Code shall report thereon to appropriate professional bodies and, when relevant, also to public authorities, and cooperate with the proper authorities in furnishing such information or assistance as may be required.
+
+Engineers shall perform services only in the areas of their competence.
+a. Engineers shall undertake assignments only when qualified by education or experience in the specific technical fields involved.
+b. Engineers shall not affix their signatures to any plans or documents dealing with subject matter in which they lack competence, nor to any plan or document not prepared under their direction and control.
+c. Engineers may accept assignments and assume responsibility for coordination of an entire project and sign and seal the engineering documents for the entire project, provided that each technical segment is signed and sealed only by the qualified engineers who prepared the segment.
+
+Engineers shall issue public statements only in an objective and truthful manner.
+a. Engineers shall be objective and truthful in professional reports, statements, or testimony. They shall include all relevant and pertinent information in such reports, statements, or testimony, which should bear the date indicating when it was current.
+b. Engineers may express publicly technical opinions that are founded upon knowledge of the facts and competence in the subject matter.
+c. Engineers shall issue no statements, criticisms, or arguments on technical matters that are inspired or paid for by interested parties, unless they have prefaced their comments by explicitly identifying the interested parties on whose behalf they are speaking, and by revealing the existence of any interest the engineers may have in the matters.
+	
+Engineers shall act for each employer or client as faithful agents or trustees.
+a. Engineers shall disclose all known or potential conflicts of interest that could influence or appear to influence their judgment or the quality of their services.
+b. Engineers shall not accept compensation, financial or otherwise, from more than one party for services on the same project, or for services pertaining to the same project, unless the circumstances are fully disclosed and agreed to by all interested parties.
+c. Engineers shall not solicit or accept financial or other valuable consideration, directly or indirectly, from outside agents in connection with the work for which they are responsible.
+d. Engineers in public service as members, advisors, or employees of a governmental or quasi-governmental body or department shall not participate in decisions with respect to services solicited or provided by them or their organizations in private or public engineering practice.
+e. Engineers shall not solicit or accept a contract from a governmental body on which a principal or officer of their organization serves as a member.
+
+Engineers shall avoid deceptive acts.
+a. Engineers shall not falsify their qualifications or permit misrepresentation of their or their associates’ qualifications. They shall not misrepresent or exaggerate their responsibility in or for the subject matter of prior assignments. Brochures or other presentations incident to the solicitation of employment shall not misrepresent pertinent facts concerning employers, employees, associates, joint venturers, or past accomplishments.
+b. Engineers shall not offer, give, solicit, or receive, either directly or indirectly, any contribution to influence the award of a contract by public authority, or which may be reasonably construed by the public as having the effect or intent of influencing the awarding of a contract. They shall not offer any gift or other valuable consideration in order to secure work. They shall not pay a commission, percentage, or brokerage fee in order to secure work, except to a bona fide employee or bona fide established 
+commercial or marketing agencies retained by them
