@@ -1,4 +1,2 @@
-# Projects
-Practical-Personal-Experience
-
-Some of projects either fully done by me or by a team I was a member of.
+# University Projects
+Some of the Projects done during related academic courses learning period.
